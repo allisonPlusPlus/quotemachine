@@ -1,3 +1,13 @@
 author::before {
    content: "— "
 }
+
+.main {
+  border-radius: 10px;
+  position:relative;
+  margin:8% auto auto auto;
+  width:450px;
+  padding:40px 50px;
+  display:table;
+  background-color: pink;
+}
