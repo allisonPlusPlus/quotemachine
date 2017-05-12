@@ -6,10 +6,6 @@
     text-shadow: 1px 1px black;
 }
 
-author::before {
-   content: "— "
-}
-
 .main {
   border-radius: 10px;
   position:relative;
