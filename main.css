@@ -2,6 +2,10 @@
   color: white;
 }
 
+.fa {
+    text-shadow: 1px 1px black;
+}
+
 author::before {
    content: "— "
 }
