@@ -15,7 +15,3 @@ function randomQuote() {
 $(function() {
   randomQuote();
 });
-
-$("button").click(function(){
-  randomQuote();
-});
