@@ -3,6 +3,11 @@
   font-family: 'Roboto', sans-serif;
 }
 
+.header {
+  font-family: 'Rock Salt', cursive;
+  text-shadow: 1px 1px black;
+}
+
 .fa {
     text-shadow: 1px 1px black;
 }
